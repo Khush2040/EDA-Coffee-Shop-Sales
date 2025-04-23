@@ -51,3 +51,4 @@ The dataset, `Coffee Shop Sales.xlsx` (or `.csv`), contains transaction-level sa
 
 * `INT375 CA2.ipynb`: Jupyter Notebook containing the EDA code and analysis.
 * `Coffee Shop Sales.xlsx` (or `.csv`): Dataset file.
+* ..
